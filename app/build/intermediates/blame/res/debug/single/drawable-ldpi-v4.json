@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_left.xml",
+        "source": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/src/main/res/drawable-ldpi/progress_bar_left.xml"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_left.xml",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/src/main/res/drawable-ldpi/progress_bar_left.xml"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_right.xml",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/src/main/res/drawable-ldpi/progress_bar_right.xml"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_left.xml",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/src/main/res/drawable-ldpi/progress_bar_left.xml"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVertical/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_right.xml",
+        "source": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/src/main/res/drawable-ldpi/progress_bar_right.xml"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/bharath/Bharath/Android/App/quickstart-android-master/MySeekBar/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progress_bar_right.xml",
+        "source": "/home/bharath/Bharath/Android/AndroidStudioProject/GitHubProjects/RangeBarVert/app/src/main/res/drawable-ldpi/progress_bar_right.xml"
+    }
+]
