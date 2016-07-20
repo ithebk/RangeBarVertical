@@ -1,1 +1,1 @@
-include ':app', ':rangebarvertical'
+include ':rangebarverticalsample', ':rangebarvertical'

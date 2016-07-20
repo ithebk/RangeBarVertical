@@ -55,7 +55,6 @@
                 android:layout_height="30dp"
                 android:padding="6dp"
                 android:minWidth="36dp"
-                android:textColor="#000"
                 android:textSize="12sp"
                 android:gravity="center"
                 android:background="#007FFF"

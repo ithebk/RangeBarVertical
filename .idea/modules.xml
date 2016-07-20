@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RangeBarVert.iml" filepath="$PROJECT_DIR$/RangeBarVert.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rangebarvertical/rangebarvertical.iml" filepath="$PROJECT_DIR$/rangebarvertical/rangebarvertical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rangebarverticalsample/app.iml" filepath="$PROJECT_DIR$/rangebarverticalsample/app.iml" />
     </modules>
   </component>
 </project>
