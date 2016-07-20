@@ -58,7 +58,7 @@
                 android:textColor="#000"
                 android:textSize="12sp"
                 android:gravity="center"
-                android:background="#388e3c"
+                android:background="#007FFF"
                 android:text="0" />
         </RelativeLayout>
 
