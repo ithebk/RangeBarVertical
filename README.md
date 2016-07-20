@@ -25,6 +25,11 @@ Installation
 	   compile 'com.opalox.rangebarvertical:rangebarvertical:1'
 	}
 
+Screenshot
+=======
+http://opalox.com/library/rangebarvertical.png
+
+
 License
 =======
 
