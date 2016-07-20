@@ -27,7 +27,7 @@ Installation
 
 Screenshot
 =======
-http://opalox.com/library/rangebarvertical.png
+![Alt text](http://opalox.com/library/rangebarvertical.png "Screenshot")
 
 
 License
