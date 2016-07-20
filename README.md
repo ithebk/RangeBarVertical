@@ -22,7 +22,7 @@ Installation
 	}
 
 	dependencies {
-	   compile 'com.opalox.rangebarvertical:rangebarvertical:1'
+	   compile 'com.opalox.rangebarvertical:rangebarvertical:1.1'
 	}
 
 Screenshot
