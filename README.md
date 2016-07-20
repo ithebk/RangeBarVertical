@@ -28,7 +28,8 @@ Installation
 Screenshot
 =======
 
-<img src="http://opalox.com/library/rangebarvertical.png" width="540" height="960">
+<img src="http://opalox.com/library/rangebarvertical.png" width="3
+60" height="640">
 
 
 License
